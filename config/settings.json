@@ -1,0 +1,30 @@
+{
+  "development": {
+    "app": {
+      "hostname": "http://localhost:3000",
+      "db": "mongodb://localhost/db"
+    },
+    "facebook": {
+      "appId": "",
+      "appSecret": ""
+    },
+    "twitter": {
+      "consumerKey": "",
+      "consumerSecret": ""
+    }
+  },
+  "production": {
+    "app": {
+      "hostname": "http://localhost:3000",
+      "db": "mongodb://localhost/db"
+    },
+    "facebook": {
+      "appId": "",
+      "appSecret": ""
+    },
+    "twitter": {
+      "consumerKey": "",
+      "consumerSecret": ""
+    }
+  }
+}
